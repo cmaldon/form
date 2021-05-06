@@ -26,7 +26,8 @@ HTML form used in Doberman site project.
 
 
 # Contributors
-<h4>Thank you</h4>
+
+<h3>Thank you</h3>
 
 ----
 
